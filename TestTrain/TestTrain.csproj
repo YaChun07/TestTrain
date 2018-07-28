@@ -48,7 +48,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BirthdayTest.cs" />
+    <Compile Include="HolidayTest.cs" />
     <Compile Include="CalculatorTest.cs" />
     <Compile Include="Holiday.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

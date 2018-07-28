@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace TestTrain
 {
     [TestClass]
-    public class BirthdayTest
+    public class HolidayTest
     {
         [TestMethod]
         public void IsTodayNotJoeyBirthdayTest()
