@@ -25,7 +25,7 @@ namespace TestTrain
         }
     }
 
-    public class FakeHoliday : Holiday
+    internal class FakeHoliday : Holiday
     {
         private DateTime _today;
         internal override DateTime GetToday()
